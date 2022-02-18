@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/docker-46a2f1.svg?style=for-the-badge&logo=docker&logoColor=%23ffffff)
 ![Github Actions](https://img.shields.io/badge/github%20actions-010101.svg?style=for-the-badge&logo=github&logoColor=%23ffffff)
 
-<img src="https://github-readme-stats.vercel.app/api?username=crisvegadev&show_icons=true&count_private=true" alt="crisvegadev" />
+<img src="https://github-readme-stats.vercel.app/api?username=crisvegadev&show_icons=true&count_private=true&theme=dark" alt="crisvegadev" />
 
 
 <h3>Where to find me</h3>
