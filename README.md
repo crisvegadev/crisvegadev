@@ -8,7 +8,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next.JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/docker-46a2f1.svg?style=for-the-badge&logo=docker&logoColor=%23ffffff)
 ![Github Actions](https://img.shields.io/badge/github%20actions-010101.svg?style=for-the-badge&logo=github&logoColor=%23ffffff)
