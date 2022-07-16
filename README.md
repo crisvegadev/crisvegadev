@@ -16,7 +16,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=crisvegadev&show_icons=true&count_private=true&theme=dark" alt="crisvegadev" />
 
-
 <h3>Where to find me</h3>
 <p>
     <a href="https://github.com/crisvegadev" target="_blank">
@@ -27,7 +26,10 @@
     </a> 
     <a href="https://www.linkedin.com/in/crisvegadev" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a> 
+    </a>
+    <a href="https://www.linkedin.com/in/crisvegadev" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/frontendmentor-ffffff.svg?&style=for-the-badge&logo=frontendmentor&logoColor=0077B5" />
+    </a>
 </p>
 <p>
     <a href="https://crisvega.dev/">➡️ Check out my website</a>
