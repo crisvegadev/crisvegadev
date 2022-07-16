@@ -27,7 +27,7 @@
     <a href="https://www.linkedin.com/in/crisvegadev" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/crisvegadev" target="_blank">
+    <a href="https://www.frontendmentor.io/profile/crisvegadev" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/frontendmentor-ffffff.svg?&style=for-the-badge&logo=frontendmentor&logoColor=0077B5" />
     </a>
 </p>
