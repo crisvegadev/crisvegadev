@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Hi, I'm Cristian Vega, a full-time self-taught passionate developer and software engineer.</p>
+<p>Ingeniero en TI con +3 años de experiencia en desarrollo web y +5 años en programación. Aprendizaje rápido y continuo, capacidad analítica, trabajo en equipo, autodidacta en constante preparación. Me emociona la idea de afrontar desafíos, aceptar nuevos retos, el poder crear productos y soluciones increíbles con las habilidades que he adquirido, disfruto de cada momento que programo y aprendo sobre tecnología.</p>
 
 <h2>🚀 Things I code with and am currently learning:</h2>
 
