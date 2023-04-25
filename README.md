@@ -29,9 +29,9 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/frontendmentor-ffffff.svg?&style=for-the-badge&logo=frontendmentor&logoColor=0077B5" />
     </a>
 </p>
-<p>
-    [![](https://visitcount.itsvg.in/api?id=crisvegadev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-    </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=crisvegadev&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 <p>
     <a href="https://crisvega.dev/">➡️ Check out my website</a>
 </p>
