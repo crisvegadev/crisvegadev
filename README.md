@@ -30,5 +30,8 @@
     </a>
 </p>
 <p>
+    [![](https://visitcount.itsvg.in/api?id=crisvegadev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+    </p>
+<p>
     <a href="https://crisvega.dev/">➡️ Check out my website</a>
 </p>
